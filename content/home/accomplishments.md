@@ -6,7 +6,7 @@ item:
     date_end: ""
     date_start: 2021-01-25
     description: ""
-    organization: Coursera
+    organization: The University of Melbourne
     organization_url: ""
     title: Neural Networks and Deep Learning
     url: ""
