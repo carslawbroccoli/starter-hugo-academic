@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Student at the University of Melbourne
-avatar_filename: profile.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
