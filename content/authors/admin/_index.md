@@ -21,15 +21,15 @@ organizations:
     url: https://www.hku.hk
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Actuarial Science
+      institution: The University of Melbourne
+      year: 2023
+    - course: MA in Statistics
+      institution: University of California, Berkeley
+      year: 2018
+    - course: BSc (Honours) in Mathematical Statistics
+      institution: University of Sydney
+      year: 2016
 superuser: true
 highlight_name: true
 title: Ming Qiu
