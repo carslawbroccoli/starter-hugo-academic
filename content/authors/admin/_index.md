@@ -1,8 +1,8 @@
 ---
 role: Ph.D. Student
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include stochastic optimal control, systemic risk,
+  and numerical methods for control problems.
 interests:
   - Stochastic optimal control
   - systemic risk
