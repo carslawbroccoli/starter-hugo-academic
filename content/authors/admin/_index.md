@@ -13,7 +13,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ming-qiu/
 organizations:
   - name: The University of Melbourne
     url: https://www.unimelb.edu.au
@@ -21,17 +21,17 @@ education:
   courses:
     - course: PhD in Actuarial Science
       institution: The University of Melbourne
-      year: 2023
+      year: October 2019 - Present
     - course: MA in Statistics
       institution: University of California, Berkeley
-      year: 2018
+      year: August 2017 - May 2018
     - course: BSc (Honours) in Mathematical Statistics
       institution: University of Sydney
-      year: 2016
+      year: February 2013 - April 2017
 superuser: true
 highlight_name: true
 title: Ming Qiu
-email: ""
+email: "mingq@student.unimelb.edu.au"
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
