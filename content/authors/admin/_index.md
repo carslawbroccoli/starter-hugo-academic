@@ -1,5 +1,5 @@
 ---
-role: Ph.D. Student at the University of Melbourne
+role: Ph.D. Student
 avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -17,8 +17,6 @@ social:
 organizations:
   - name: The University of Melbourne
     url: https://www.unimelb.edu.au
-  - name: The University of Hong Kong
-    url: https://www.hku.hk
 education:
   courses:
     - course: PhD in Actuarial Science
