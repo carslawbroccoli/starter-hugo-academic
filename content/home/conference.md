@@ -6,7 +6,7 @@ date_format: Jan 2006
 item:
   - organization: Virtual
     organization_url: ""
-    title: The 25th (2022) International Congress on Insurance: Mathematics and Economics
+    title: 'The 25th (2022) International Congress on Insurance: Mathematics and Economics'
     url: ""
     certificate_url: ""
     date_start: 2022-07-13
