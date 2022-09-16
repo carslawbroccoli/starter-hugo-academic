@@ -11,4 +11,11 @@ design:
   columns: '2'
 ---
 
-Add any content here - text, images, videos, galleries - and even HTML code!
+> - The University of Melbourne (Oct 2019 - Present)
+> PhD in Actuarial Studies
+
+> - University of California, Berkeley (Aug 2017 – May 2018)
+> MA in Statistics
+
+> - University of Sydney (Feb 2013 - Nov 2016)
+> BSc (Honours) in Mathematical Statistics
