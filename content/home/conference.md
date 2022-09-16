@@ -4,14 +4,14 @@ widget_id: talk
 headless: true
 date_format: Jan 2006
 item:
-  - organization: The University of Melbourne
+  - organization: Virtual
     organization_url: ""
-    title: The Henry Buck Scholarship
+    title: The 25th (2022) International Congress on Insurance: Mathematics and Economics
     url: ""
     certificate_url: ""
-    date_start: 2019-11-01
+    date_start: 2022-07-13
     date_end: ""
-    description: For the student who has the highest overall scholarship score entering the Doctor of Philosophy for the year.
+    description: Presented in the session of optimal control in insurance and finance.
 weight: 68
 title: Conference Talks
 ---
