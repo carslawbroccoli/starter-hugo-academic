@@ -6,7 +6,8 @@ authors:
   - admin
   - Zhuo Jin
   - Shuanming Li
-publication: SIAM Journal on Control and Optimization
+doi: https://doi.org/10.1137/21M1422318
+publication: SIAM Journal on Control and Optimization, 60(3), 1269-1293
 draft: false
 featured: false
 image:
