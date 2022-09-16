@@ -12,6 +12,6 @@ item:
     date_start: 2022-07-13
     date_end: ""
     description: Presented in the session of optimal control in insurance and finance.
-weight: 70
+weight: 50
 title: Conference Talks
 ---
