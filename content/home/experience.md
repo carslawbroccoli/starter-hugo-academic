@@ -5,7 +5,7 @@ experience:
   - title: Data Engineer
     company: OneConnect Financial Technology Co., Ltd.
     company_url: "https://www.ocft.com/en/"
-    company_logo: ""
+    company_logo: oc
     location: Shanghai,China
     date_start: 2018-08-01
     date_end: 2019-10-01
