@@ -1,5 +1,11 @@
 ---
 widget: accomplishments
+widget_id: award
+headless: true
+weight: 70
+title: Scholarships and Awards
+subtitle: null
+
 date_format: Jan 2006
 item:
   - certificate_url: ""
@@ -50,11 +56,7 @@ item:
     organization_url: ""
     title: Dean of Science Undergraduate Exchange Scholarship
     url: ""
-widget_id: award
-headless: true
-weight: 50
-title: Scholarships and Awards
-subtitle: null
+
 design:
   columns: "2"
 ---
