@@ -8,7 +8,7 @@ authors:
   - Zhuo Jin
   - Tak Kuen Siu
   - admin
-publication: Scandinavian Actuarial Journal
+publication: Scandinavian Actuarial Journal, 2021(10), 832-865.
 draft: false
 featured: false
 image:
