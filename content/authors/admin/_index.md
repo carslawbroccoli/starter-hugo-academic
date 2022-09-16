@@ -35,6 +35,4 @@ email: mingq@student.unimelb.edu.au
 ---
 Hi! I am a third-year Ph.D. student at the University of Melbourne, advised by Prof. Zhuo Jin, Prof. Shuanming Li, and Dr. Ping Chen. Currently, I am also a visiting research student at the University of Hong Kong working with Prof. Hailiang Yang. Before moving to Melbourne, I obtained my master's degree from the Department of Statistics, UC Berkeley, and worked as a data engineer in Shanghai. Before coming to Berkeley, I received my Bachelor's degree with honours from University of Sydney. My advisor was Prof. Reiichiro Kawai. 
 
-My research interests are stochastic optimal control, systemic risk, and numerical methods for control problems.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research interests are stochastic optimal control, systemic risk, and numerical methods for control problems. My CV is available {{< staticref "uploads/mingqiu_CV.pdf" "newtab" >}}here{{< /staticref >}}.
