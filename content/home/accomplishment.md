@@ -28,6 +28,22 @@ item:
     date_start: 2017-04-01
     date_end: ""
     description: For the best Statistics Honours seminar presentation.
+  - organization: University of Sydney
+    organization_url: ""
+    title: The Honours Scholarships
+    url: ""
+    certificate_url: ""
+    date_start: 2016-02-01
+    date_end: ""
+    description: For the Honours students who demonstrate outstanding academic performances.
+  - organization: University of Sydney
+    organization_url: ""
+    title: Deans’ List of Excellence in Academic Performance
+    url: ""
+    certificate_url: ""
+    date_start: 2014-07-01
+    date_end: 2015-07-01
+    description: For undergraduate students who demonstrate outstanding academic performances.
 weight: 70
 title: Scholarships and Awards
 ---
