@@ -9,7 +9,7 @@ authors:
   - admin
   - Ky Q. Tran
   - George Yin
-publication: Numerical Algebra, Control and Optimization, 12(2), 213-253.
+publication: Numerical Algebra, Control and Optimization, 12(2), 213-253
 draft: false
 featured: false
 image:
