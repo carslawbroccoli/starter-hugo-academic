@@ -12,6 +12,6 @@ item:
     date_start: 2019-11-01
     date_end: ""
     description: For the student who has the highest overall scholarship score entering the Doctor of Philosophy for the year.
-weight: 50
+weight: 68
 title: Conference Talks
 ---
