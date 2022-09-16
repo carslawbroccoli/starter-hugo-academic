@@ -1,3 +1,4 @@
+---
 widget: accomplishments
 headless: true  # This file represents a page section.
 
@@ -22,3 +23,4 @@ item:
     date_end: ''
     description: ''
 
+---
