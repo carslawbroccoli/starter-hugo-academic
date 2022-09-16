@@ -44,6 +44,14 @@ item:
     date_start: 2014-07-01
     date_end: 2015-07-01
     description: For undergraduate students who demonstrate outstanding academic performances.
+  - organization: University of Sydney
+    organization_url: ""
+    title: Dean of Science Undergraduate Exchange Scholarship
+    url: ""
+    certificate_url: ""
+    date_start: 2014-11-01
+    date_end: ""
+    description: For her exchange experience at University of California, Davis and outstanding academic performance.
 weight: 70
 title: Scholarships and Awards
 ---
