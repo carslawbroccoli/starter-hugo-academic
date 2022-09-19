@@ -37,4 +37,4 @@ Hi! I am a third-year Ph.D. student at the[ University of Melbourne](https://www
 
 My research interests are stochastic optimal control, systemic risk, and numerical methods for control problems. My CV is available {{< staticref "uploads/mingqiu_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-{{< icon name="envelope" pack="fas" >}} mingq[at]student.unimelb.edu.au
+{{< icon name="envelope" pack="fas" >}} {{< hl >}}mingq[at]student.unimelb.edu.au{{< /hl >}}
