@@ -7,7 +7,7 @@ authors:
   - admin
   - Zhuo Jin
   - Shuanming Li
-publication: "Submitted to Insurance: Mathematics and Economics"
+publication: "Insurance: Mathematics and Economics"
 publication_short: ""
 draft: false
 featured: false
