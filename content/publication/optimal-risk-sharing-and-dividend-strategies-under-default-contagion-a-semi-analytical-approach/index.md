@@ -2,12 +2,13 @@
 title: "Optimal risk sharing and dividend strategies under default contagion: A
   semi-analytical approach"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Zhuo Jin
   - Shuanming Li
-publication: "Insurance: Mathematics and Economics"
+doi: https://doi.org/10.1016/j.insmatheco.2023.07.002
+publication: "Insurance: Mathematics and Economics, 113, 1-23"
 publication_short: ""
 draft: false
 featured: false
